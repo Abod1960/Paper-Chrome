@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/Y8jaRNr.jpeg)
 
-This ia a theme for Google Chrome.
+This is a theme for Google Chrome.
  
 Based on [Paper theme by niivu](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette...
  
