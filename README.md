@@ -33,6 +33,7 @@ If you delete the folder or move it from the original directory the theme will d
 * 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
 *  ✉ Gmail: abod1960.work@gmail.com
 *   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+*   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 
 ## 🌟 Show your support
