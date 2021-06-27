@@ -36,6 +36,21 @@ If you delete the folder or move it from the original directory the theme will d
 *   💬 Discord: [Abod1960#5514](https://discord.com/users/750369816279253083)<br>
 
 
+## 👍 Recommended extensions and styles
+
+
+🍀 If you want to make your discord app has a Pper look, here is a theme i made: [Translucence Paper Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Paper).
+
+⚜ And if you want to get an Paper cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
+
+🍃 And if you are using one commander "just like me" then here is a paper theme for your one commander app: [One-Commander-Paper-Theme](https://www.deviantart.com/abod1960/art/One-Commander-Paper-Theme-883743096).
+
+🚥 And here is a Dock icons with that paper look: [Paper-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
+
+🎴 And here is 45 wallpaper to complete your Paper setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
+
+➰ If you are using Ueli here is a theme for Ueli: [Paper-Ueli](https://github.com/Abod1960/Paper-Ueli).
+
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!<br>
