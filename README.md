@@ -51,6 +51,8 @@ If you delete the folder or move it from the original directory the theme will d
 
 ➰ If you are using Ueli here is a theme for Ueli: [Paper-Ueli](https://github.com/Abod1960/Paper-Ueli).
 
+▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
+
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!<br>
