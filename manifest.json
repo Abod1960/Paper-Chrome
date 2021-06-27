@@ -1,7 +1,7 @@
 {
     "name":"Paper Chrome",
     "version":"1.0",
-    "description":"",
+    "description":"simple Paper theme for Chrome",
     "manifest_version":2,
     "theme":{
         "images":{
