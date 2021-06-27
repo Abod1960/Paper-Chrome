@@ -3,7 +3,9 @@
 
 ![](https://i.imgur.com/Y8jaRNr.jpeg)
 
-This ia a theme for Google Chrome.
+## ⁉ What is this
+
+This is a theme for Google Chrome.
  
 Based on [Paper theme by niivu](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608) color palette...
  
@@ -15,7 +17,6 @@ Based on [Paper theme by niivu](https://www.deviantart.com/niivu/art/Paper-for-W
 
 Download the zip file, extract the open chrome and go to extensions then enable developer mode and you will see three new options, click on "load unpacked",  locate the folder you extracted already then ENJOY!.
 
----
 
 If you want to disable the theme 😫, then go to settings then under the appearance tab click on reset to default. 
 
@@ -37,7 +38,7 @@ If you delete the folder or move it from the original directory the theme will d
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!<br>
-Also you can support me buying this on [gumroad](https://gum.co/irTbV)
+Also you can support me buying this on [gumroad](https://gum.co/hxKEG)
 
 ## 📝 Note
 
